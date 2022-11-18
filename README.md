@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xfff0500&label=Profile%20views&color=0e75b6&style=flat" alt="0xfff0500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xfff0500" alt="0xfff0500" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GreatsLord" alt="GreatsLord" /></a> </p>
 
 - 🔭 I’m currently working on **New Tools**
 
