@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xfff0500&label=Profile%20views&color=0e75b6&style=flat" alt="0xfff0500" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GreatzLord&label=Profile%20views&color=0e75b6&style=flat" alt="GreatzLord" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GreatsLord" alt="GreatsLord" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GreatzLord" alt="GreatzLord" /></a> </p>
 
 - 🔭 I’m currently working on **New Tools**
 
