@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xfff0500&show_icons=true&locale=en" alt="0xfff0500" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfff0500&" alt="0xfff0500" /></p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20GreatzLord%20&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/470938427940929536)](https://discord.com/users/470938427940929536)
