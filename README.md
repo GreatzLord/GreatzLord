@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GreatzLord&show_icons=true&locale=en" alt="GreatzLord" /></p>
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/470938427940929536)](https://discord.com/users/470938427940929536)
+[![Discord Presence](https://lanyard.cnrad.dev/api/470938427940929536)](https://discord.com/users/470938427940929536)
